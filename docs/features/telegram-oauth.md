@@ -20,7 +20,7 @@ Telegram OAuth is a feature that allows you to authenticate to Remnawave dashboa
 
 ### Setting up the bot
 
-1. Go to [@BotFather](https://t.me/BotFather)
+1. Go to [@BotFather](https://docs.rw/tg/BotFather)
 2. Send command `/mybots` and select previous created bot
 3. Select option `Bot settings` → `Domain`
 4. Select option `Set domain`

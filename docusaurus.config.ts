@@ -203,11 +203,11 @@ const config: Config = {
                     items: [
                         {
                             label: 'Telegram',
-                            href: 'https://t.me/remnawave'
+                            href: 'https://docs.rw/tg/remnawave'
                         },
                         {
                             label: 'Telegram Group',
-                            href: 'https://t.me/+c8wKd62eIAE4ZDdi'
+                            href: 'https://docs.rw/tg/+c8wKd62eIAE4ZDdi'
                         }
                     ]
                 },

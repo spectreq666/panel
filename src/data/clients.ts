@@ -22,7 +22,7 @@
  *   },
  *   links: {
  *     github: 'https://github.com/...',
- *     telegram: 'https://t.me/...',
+ *     telegram: 'https://docs.rw/tg/...',
  *     website: 'https://...',
  *     docs: 'https://...'
  *   }
@@ -82,7 +82,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             website: 'https://happ.su/main',
-            telegram: 'https://t.me/happ_chat'
+            telegram: 'https://docs.rw/tg/happ_chat'
         }
     },
     {
@@ -105,7 +105,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             github: 'https://github.com/pluralplay/FlClashX',
-            telegram: 'https://t.me/flclashx'
+            telegram: 'https://docs.rw/tg/flclashx'
         }
     },
     {
@@ -125,7 +125,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             docs: 'https://rabbit-hole-1.gitbook.io/rabbit-hole-docs/',
-            telegram: 'https://t.me/rabbit_hole_vpn'
+            telegram: 'https://docs.rw/tg/rabbit_hole_vpn'
         }
     },
     {
@@ -286,7 +286,7 @@ export const CLIENTS: Client[] = [
             android: 'https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest'
         },
         links: {
-            telegram: 'https://t.me/nekoray_group',
+            telegram: 'https://docs.rw/tg/nekoray_group',
             docs: 'https://matsuridayo.github.io/',
             github: 'https://github.com/MatsuriDayo/NekoBoxForAndroid'
         }
@@ -310,7 +310,7 @@ export const CLIENTS: Client[] = [
             linux: 'https://github.com/KaringX/karing/releases/latest'
         },
         links: {
-            telegram: 'https://t.me/KaringApp',
+            telegram: 'https://docs.rw/tg/KaringApp',
             github: 'https://github.com/KaringX/karing',
             docs: 'https://karing.app/'
         }
@@ -350,7 +350,7 @@ export const CLIENTS: Client[] = [
             linux: 'https://github.com/clash-verge-rev/clash-verge-rev/releases/latest'
         },
         links: {
-            telegram: 'https://t.me/clash_verge_rev',
+            telegram: 'https://docs.rw/tg/clash_verge_rev',
             github: 'https://github.com/clash-verge-rev/clash-verge-rev'
         }
     },
@@ -373,7 +373,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             github: 'https://github.com/coolcoala/clash-verge-rev-lite',
-            telegram: 'https://t.me/+WCL__GOFzZJkYjZi'
+            telegram: 'https://docs.rw/tg/+WCL__GOFzZJkYjZi'
         }
     },
     {
@@ -396,7 +396,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             github: 'https://github.com/flowvy-proxy/desktop',
-            telegram: 'https://t.me/flowvy_client',
+            telegram: 'https://docs.rw/tg/flowvy_client',
             docs: 'https://docs.flowvy.io'
         }
     },
@@ -468,7 +468,7 @@ export const CLIENTS: Client[] = [
             macos: 'https://apps.apple.com/en/app/v2raytun/id6476628951'
         },
         links: {
-            telegram: 'https://t.me/v2raytun',
+            telegram: 'https://docs.rw/tg/v2raytun',
             website: 'https://v2raytun.com/'
         }
     },
@@ -553,7 +553,7 @@ export const CLIENTS: Client[] = [
         },
         links: {
             docs: 'https://clashmi.app',
-            telegram: 'https://t.me/ClashMiApp',
+            telegram: 'https://docs.rw/tg/ClashMiApp',
             github: 'https://github.com/KaringX/clashmi'
         }
     },

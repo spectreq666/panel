@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/remnawave" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.rw/tg/remnawave" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Join%20community-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join community on Telegram" width="220" height="auto">
   </a>
 </p>

@@ -222,14 +222,14 @@ You can log in with your Telegram account.
 <summary>How to Set Up Telegram OAuth</summary>
 
 1. **Create a Bot**  
-   Message `/newbot` to [@BotFather](https://t.me/BotFather) and create a new bot. Copy its token.
+   Message `/newbot` to [@BotFather](https://docs.rw/tg/BotFather) and create a new bot. Copy its token.
 
 2. **Set Domain**  
    Message `/mybots`. Select the bot you created. The go to `Bot Settings` → `Domain` → `Set domain`.  
    Message the domain of your Panel. E.g. `https://panel.example.com`.
 
 3. **Get Admin IDs**  
-   Message `/start` to [@userinfobot](https://t.me/userinfobot). Copy the ID it responded with.
+   Message `/start` to [@userinfobot](https://docs.rw/tg/userinfobot). Copy the ID it responded with.
 
 4. **Set the Variables in Remnawave**
     - `Bot Token` — set the token of a bot you created earlier.

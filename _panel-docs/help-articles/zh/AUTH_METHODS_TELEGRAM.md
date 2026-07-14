@@ -6,7 +6,7 @@
 
 ### 机器人配置
 
-1. 打开 @BotFather（https://t.me/botfather）
+1. 打开 [@BotFather](https://docs.rw/tg/botfather)
 2. 点击"Open"按钮打开 MiniApp
 3. 选择您的机器人，然后点击 `Bot Settings`
 4. 如果 `Web Login` 部分已经指定了域名 — 请先删除它。
@@ -22,7 +22,7 @@
 
 在填写完 `Client ID`、`Client Secret` 和 `Frontend Domain` 后，您需要指定允许登录的管理员 ID 列表。
 
-1. 使用对应账号打开机器人 – https://t.me/Get_myidrobot
+1. 使用对应账号打开机器人 – https://docs.rw/tg/Get_myidrobot
 2. 机器人会返回您的用户 ID，将该 ID 填入对应的字段中。
 
 ---

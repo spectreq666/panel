@@ -8,11 +8,11 @@ If you want to support the Remnawave project, you can donate to the following ad
 
 ### RUB (Tribute)
 
-<Button label="Donate with Tribute" link="https://t.me/tribute/app?startapp=dnav" variant="secondary" size="md" outline style={{ marginBottom: '1rem' }} />
+<Button label="Donate with Tribute" link="https://docs.rw/tg/tribute/app?startapp=dnav" variant="secondary" size="md" outline style={{ marginBottom: '1rem' }} />
 
 ### EUR (Tribute)
 
-<Button label="Donate with Tribute" link="https://t.me/tribute/app?startapp=dnm7" variant="secondary" size="md" outline style={{ marginBottom: '1rem' }} />
+<Button label="Donate with Tribute" link="https://docs.rw/tg/tribute/app?startapp=dnm7" variant="secondary" size="md" outline style={{ marginBottom: '1rem' }} />
 
 ### TRX (Tron)
 

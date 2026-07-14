@@ -30,7 +30,11 @@
 	}
 
 	handle @mainDomain {
-		redir /prime* https://t.me/xrocket?start=sb_E6HxjZHitIM98el permanent
+        redir /prime /tg/xrocket?start=sb_E6HxjZHitIM98el permanent
+
+		@tg path_regexp tg ^/tg/(.+?)/?$
+        redir @tg https://telegram.dog/{re.tg.1} permanent
+
 		redir /apps /clients permanent
 		redir /docs/changelog* https://f.docs.rw/c/announces/14 permanent
 		redir /changelog* https://f.docs.rw/c/announces/14 permanent

@@ -6,7 +6,7 @@ To configure the "Login via Telegram" feature, you need a Telegram bot. Addition
 
 ### Bot Configuration
 
-1. Open @BotFather (https://t.me/botfather)
+1. Open [@BotFather](https://docs.rw/tg/botfather)
 2. Open the MiniApp by pressing "Open"
 3. Select your bot and press `Bot Settings`
 4. If there is already a domain specified in the `Web Login` section — delete it.
@@ -22,7 +22,7 @@ To configure the "Login via Telegram" feature, you need a Telegram bot. Addition
 
 After filling in `Client ID`, `Client Secret` and `Frontend Domain`, you need to specify a list of administrator IDs who will have access to login.
 
-1. From the required account, launch the bot – https://t.me/Get_myidrobot
+1. From the required account, launch the [bot](https://docs.rw/tg/Get_myidrobot)
 2. In response, the bot will send you your ID, enter it in the corresponding field.
 
 ---
